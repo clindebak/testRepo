@@ -1,0 +1,22 @@
+section {
+	width: 800px;
+	margin: 100px auto;
+}
+section p {
+	text-align: center;
+	color: #454545;
+}
+section h1 {
+	font: 32px 'Open Sans';
+	font-weight: bold;
+	text-align: center;
+	color: #ffe6e6;
+}
+section p {
+	font: 16px 'Open Sans';
+}
+
+.headline {
+	background-color: red;
+
+}
